@@ -54,6 +54,11 @@ Get Prediction: Click "Predict" to see if the URL is classified as phishing or l
 
 Here’s what the interface looks like:
 
+![Screenshot from 2024-09-03 22-52-01](https://github.com/user-attachments/assets/89b4e624-34af-4742-aeb1-1c71c95224b4)
+
+![Screenshot from 2024-09-03 22-53-09](https://github.com/user-attachments/assets/e7231d41-d464-4368-b1cd-94787fd1c9c8)
+
+
 
 ## Troubleshooting
 
