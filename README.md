@@ -1,4 +1,3 @@
-# Brainwave-intern-tasks
 
 # Phishing URL Detection Tool
 
